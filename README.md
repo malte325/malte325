@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malte325
 - 👀 I’m interested in Python 
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning C#, Blazor, MAUI
 - 💞️ I’m looking to collaborate on ...
 - ⚡ Age: 17
 
